@@ -1,0 +1,125 @@
+commit 40d2fc65d35f961a35d30e8d3dafd1a7b53ff24f
+Author: Shruti Kaur <shrutikaren.k@gmail.com>
+Date:   Mon Jan 20 00:10:58 2025 -0600
+
+    add some comments to further understanding the display image function
+
+commit 5e800c6a6bc9ce99eda2d70c9fe540fd67c85181
+Author: Shruti Kaur <shrutikaren.k@gmail.com>
+Date:   Mon Jan 20 00:09:08 2025 -0600
+
+    Added logic for the display image function
+
+commit 697acf6fcf501f12180037593515b1738bcad40b
+Author: Shruti Kaur <shrutikaren.k@gmail.com>
+Date:   Sun Jan 19 23:54:44 2025 -0600
+
+    Adding everything to the git once more
+
+commit 39513a5e402575830b8a8fed4b7270d1680dd575
+Author: Shruti Kaur <shrutikaren.k@gmail.com>
+Date:   Sun Jan 19 21:34:21 2025 -0600
+
+    Added the geometry specifications and title for the window
+
+commit 177e2e58cd23752cb224c3ab20ce4349fc66abe7
+Author: Shruti Kaur <shrutikaren.k@gmail.com>
+Date:   Sun Jan 19 21:26:51 2025 -0600
+
+    Had an issue with the way saturation_action function was typed - adjusted and fixed that so that it is typed accurately and correctly now.
+
+commit 60a01cbf6997ae8bbdff5ee1cbaffba68f4a2c97
+Author: Shruti Kaur <shrutikaren.k@gmail.com>
+Date:   Sun Jan 19 21:25:10 2025 -0600
+
+    Completed working on the front end
+
+commit 37a07822cde3431721b0e31af36769d4c5b5207d
+Author: Shruti Kaur <shrutikaren.k@gmail.com>
+Date:   Sun Jan 19 21:07:39 2025 -0600
+
+    Adding the logic for the buttons and sliders for all of the functions to display the menu each time for the sub menu options
+
+commit ba7f0e7f981f1a2f097cf78637b0d5b6a9350a45
+Author: Shruti Kaur <shrutikaren.k@gmail.com>
+Date:   Sun Jan 19 20:23:57 2025 -0600
+
+    Adding the buttons and the function stubs for the filter action button
+
+commit 02c2241fd4a039ea9ac8fe136fc7dda2da07235b
+Author: Shruti Kaur <shrutikaren.k@gmail.com>
+Date:   Sun Jan 19 20:00:54 2025 -0600
+
+    Added the code for the side frames but i am yet to add buttons for them
+
+commit bb51106233f827fe3e97349be04b65a635bd1d34
+Author: Shruti Kaur <shrutikaren.k@gmail.com>
+Date:   Sun Jan 19 19:56:37 2025 -0600
+
+    Added the code for displaying our canvas. Ensuring that the rowspan is 10 because we have 10 buttons in total
+
+commit 2e8f571fbda6a95e9884261beacb8f9ff2a434e1
+Author: Shruti Kaur <shrutikaren.k@gmail.com>
+Date:   Sun Jan 19 19:51:59 2025 -0600
+
+    added the buttons for the options menu
+
+commit 412ab765b92673b265006240a66de3f18c326ae5
+Author: Shruti Kaur <shrutikaren.k@gmail.com>
+Date:   Sun Jan 19 19:34:47 2025 -0600
+
+    Added hte logo to the main header frame now
+
+commit 3be71b4a93b5d87e352ce3cd0ee4523be989118d
+Author: Shruti Kaur <shrutikaren.k@gmail.com>
+Date:   Sun Jan 19 19:26:14 2025 -0600
+
+    adding the function abstract classes without any functionalities and only its headers to allow our buttons to display without errors first
+
+commit 7eeecae5632700098d637101f0adbb36bc51cfee
+Author: Shruti Kaur <shrutikaren.k@gmail.com>
+Date:   Sun Jan 19 19:22:44 2025 -0600
+
+    Add the buttons that I want to add for the frame menu and now, i will work on the functionalities for the functions
+
+commit ebabac96d8af2836bfd22450ebecab5c273691f8
+Author: Shruti Kaur <shrutikaren.k@gmail.com>
+Date:   Sun Jan 19 18:58:17 2025 -0600
+
+    Added a log file because I haven't connected my github directly to vscode so the git log will act as a proof towards my incremental changes made towards my work
+
+commit d4fd6485a00ef174b6b981cd49e83801588bb633
+Author: Shruti kaur <shrutikaur@Shrutis-Air.hitronhub.home>
+Date:   Sun Jan 19 18:56:16 2025 -0600
+
+    Adding code for working with the first frame to ensure that it contains the three features as we had expected
+
+commit 0d52a4e70f5389de57bef32ead9b920a93f67684
+Author: Shruti kaur <shrutikaur@Shrutis-Air.hitronhub.home>
+Date:   Sun Jan 19 18:31:40 2025 -0600
+
+    Creating folders for the beginners files and the project files
+
+commit 524c886919b57f758620b99e1ca810429bc6c176
+Author: Shruti kaur <shrutikaur@Shrutis-Air.hitronhub.home>
+Date:   Sun Jan 19 18:29:16 2025 -0600
+
+    Added a file for the cv2
+
+commit 8439b8a8c07699e351a5f16d49fbb318fd65c25b
+Author: Shruti kaur <shrutikaur@Shrutis-Air.hitronhub.home>
+Date:   Sun Jan 19 17:56:21 2025 -0600
+
+    added comments and more other features that new beginners can play with such as labels, buttons, logos, canvas and many others
+
+commit e1e280356208ed05e45b652620fc3cc95b23a4d3
+Author: Shruti kaur <shrutikaur@Shrutis-Air.hitronhub.home>
+Date:   Sun Jan 19 17:43:02 2025 -0600
+
+    Working with the demo file to try and understand the basics of working with a tkinter application gui interface
+
+commit ae23c7a60350e6788cd9551988fbacc7b7f06c98
+Author: Shruti kaur <shrutikaur@Shrutis-Air.hitronhub.home>
+Date:   Sun Jan 19 17:42:33 2025 -0600
+
+    Working with the demo file to try and understand the basics of working with a tkinter application gui interface
